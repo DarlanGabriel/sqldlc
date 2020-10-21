@@ -1,0 +1,2 @@
+O índice funciona de forma a melhorar o desempenho de consultas feitas ao banco de dados, principalmente quando consultas repetitivas acontecem. 
+Ele é implementado através do comando Create Index [nome] on [tabela]. Em seguida são colocados os campos a qual o índice irá utilizar.
